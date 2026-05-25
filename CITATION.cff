@@ -1,0 +1,11 @@
+cff-version: 1.2.0
+message: "If you use this code, please cite it as below."
+title: "Code for Asymptotic Continuous Spectrum"
+authors:
+  - family-names: Yanchuk
+    given-names: Serhiy
+ - family-names: Wang
+    given-names: Yu
+version: 1.0.0
+date-released: 2026-05-25
+repository-code: "https://github.com/YuWang-HU-Berlin/Asymptotic-Contiunous-Spectrum"
