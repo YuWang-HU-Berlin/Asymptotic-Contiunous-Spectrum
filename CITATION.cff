@@ -4,9 +4,9 @@ title: "Code for Asymptotic Continuous Spectrum"
 authors:
   - family-names: Yanchuk
     given-names: Serhiy
- - family-names: Wang
+  - family-names: Wang
     given-names: Yu
- orcid: "https://orcid.org/0000-0003-2322-3998“
-version:  2.0.4
-date-released: 2026-05-25
-url: "https://github.com/YuWang-HU-Berlin/Asymptotic-Contiunous-Spectrum"
+    orcid: "https://orcid.org/0000-0003-2322-3998"
+version: "2.0.4"
+date-released: "2026-05-25"
+repository-code: "https://github.com/YuWang-HU-Berlin/Asymptotic-Contiunous-Spectrum"
